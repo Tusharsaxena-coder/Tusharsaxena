@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fajayaadhav10%2Fajayaadhav10&psig=AOvVaw23qQezMKJYEqGokx9WCs0j&ust=1687623130478000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPjDkrbk2f8CFQAAAAAdAAAAABAE) (https://tusharsaxena-coder)
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fajayaadhav10%2Fajayaadhav10&psig=AOvVaw23qQezMKJYEqGokx9WCs0j&ust=1687623130478000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPjDkrbk2f8CFQAAAAAdAAAAABAE) (https://tusharsaxena)
 <h1 align="center">Hi 👋, I'm Tushar Saxena</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="cube code"width="400" src="https://78.media.tumblr.com/579cc56a2a59ad71cf1c5afb0f0005fc/tumblr_ov7siwHIkP1ue08b9o1_500.gif">
