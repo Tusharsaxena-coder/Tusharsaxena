@@ -1,4 +1,4 @@
-[image](https://g!ithub.com/Tusharsaxena-coder/Tusharsaxena/assets/96723338/59b6fac6-bacf-406b-b565-165f54589263)![MasterHead] (https://tusharsaxena)
+![bannerr](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 <h1 align="center">Hi 👋, I'm Tushar Saxena</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 <img align="right" alt="cube code"width="400" src="https://78.media.tumblr.com/579cc56a2a59ad71cf1c5afb0f0005fc/tumblr_ov7siwHIkP1ue08b9o1_500.gif">
