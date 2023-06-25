@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tushar Saxena</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-<img align="right" alt="cubecode"width="400" src="https://38.media.tumblr.com/b4b946f24a5dfa5a29434181c38a99ed/tumblr_n7e1i6Kx1Q1tbhzhno1_500.gif">
+<img align="right" alt="cubecode"width="400" src="https://wifflegif.com/tags/4022-coding-gifs">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharsaxena-coder&label=Profile%20views&color=0e75b6&style=flat" alt="tusharsaxena-coder" /> </p>
 
