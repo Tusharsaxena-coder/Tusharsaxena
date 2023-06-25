@@ -1,7 +1,8 @@
 ![bannerr](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 <h1 align="center">Hi 👋, I'm Tushar Saxena</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img align="right" alt="cubecode"width="400" src="https://wifflegif.com/tags/4022-coding-gifs">
+
+<img align="right" alt="cubecode" width="600" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharsaxena-coder&label=Profile%20views&color=0e75b6&style=flat" alt="tusharsaxena-coder" /> </p>
 
