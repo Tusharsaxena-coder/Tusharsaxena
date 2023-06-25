@@ -1,8 +1,7 @@
 ![image](https://github.com/Tusharsaxena-coder/Tusharsaxena/assets/96723338/27f81486-ec1f-49c9-b738-b8298e2803d8)![bannerr](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 <h1 align="center">Hi 👋, I'm Tushar Saxena</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
-<img align="right" alt="cubecode"width="400" src="!https://38.media.tumblr.com/b4b946f24a5dfa5a29434181c38a99ed/tumblr_n7e1i6Kx1Q1tbhzhno1_500.gif>
-
+<img align="right" alt="cubecode"width="400" src="!https://38.media.tumblr.com/b4b946f24a5dfa5a29434181c38a99ed/tumblr_n7e1i6Kx1Q1tbhzhno1_500.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharsaxena-coder&label=Profile%20views&color=0e75b6&style=flat" alt="tusharsaxena-coder" /> </p>
 
 - 🌱 I’m currently learning **Web Development, Courses Etc.**
